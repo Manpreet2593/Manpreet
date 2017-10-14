@@ -1,0 +1,106 @@
+body{
+background-color: pink;
+padding: 30px 35px;
+margin: 10px 50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+}
+h2{
+
+padding: 30px 35px;
+margin: -10px -50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+font-size:40px;
+}
+
+hr{
+margin: 10px -50px;
+border: 5px;
+border-top: 1px solid #ccc;
+margin-bottom: 40px;
+size: 200px;
+}
+div.container{
+width: 900px;
+height: 610px;
+margin:20px auto;
+font-family: 'Raleway', sans-serif;
+}
+div.main{
+	background-color: lightgreen;
+width: 800px;
+height: 720px;
+padding: 10px 60px 45px;
+border: 2px solid gray;
+border-radius: 10px;
+font-family: raleway;
+float:center;
+margin-top:50px;
+margin-left: 40px;
+}
+label{
+color: brown;
+padding: 20px 60px 45px;
+margin-left:-180px;
+margin-right:20px;
+margin-top:120px;
+font-size: 20px;
+
+font-weight: Italic;
+}
+
+input[type=text]
+{
+width: 50%;
+height: 40px;
+padding: 20px;
+margin-bottom: 25px;
+margin-top: 20px;
+margin-left: 60px;
+border: 2px solid #ccc;
+color: blue;
+font-size: 20px;
+border-radius: 5px;
+}
+
+
+
+center{
+font-size:32px;
+}
+.note{
+color:red;
+}
+.valid{
+color:green;
+}
+.back{
+text-decoration: none;
+border: 1px solid rgb(0, 143, 255);
+background-color: rgb(0, 214, 255);
+padding: 3px 20px;
+border-radius: 2px;
+color: black;
+}
+
+button{
+	font-size: 30px;
+	margin-left:200px;
+	margin-top:40px;
+	margin-right:200px;
+background-color: pink;
+border: 1px solid #e5a900;
+color: red;
+font-weight: italic;
+cursor: pointer;
+width: 20%;
+text-align:center;
+border-radius: 5px;
+padding: 10px 10px;
+outline:none;
+}
+button:hover{
+background: cyan;
+}
+

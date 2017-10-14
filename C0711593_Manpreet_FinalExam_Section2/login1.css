@@ -1,0 +1,107 @@
+body{
+	background-color:powderblue;
+}
+h2{
+
+padding: 30px 35px;
+margin: -10px -50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+font-size:40px;
+}
+hr{
+margin: 10px -50px;
+border: 0;
+background-color:orange;
+border-top: 1px solid #ccc;
+margin-bottom: 40px;
+}
+div.container{
+width: 930px;
+height: 700px;
+margin:35px auto;
+font-family: 'Raleway', sans-serif;
+}
+div.main{
+	background-color: pink;
+width: 740px;
+height: 600px;
+padding: 30px 60px 45px;
+border: 2px solid gray;
+border-radius: 10px;
+font-family: raleway;
+float:center;
+margin-top:200px;
+margin-left: 160px;
+}
+input[type=text],input[type=password]{
+width: 100%;
+height: 40px;
+padding: 20px;
+margin-bottom: 25px;
+margin-top: 20px;
+margin-left: 60px;
+border: 2px solid #ccc;
+color: blue;
+font-size: 20px;
+border-radius: 5px;
+}
+label{
+color: yellow;
+text-shadow: 0 1px 0 #fff;
+margin-left:40px;
+font-size: 14px;
+font-weight: bold;
+}
+center{
+font-size:32px;
+}
+.note{
+color:red;
+}
+.valid{
+color:green;
+}
+.back{
+text-decoration: none;
+border: 1px solid rgb(0, 143, 255);
+background-color: rgb(0, 214, 255);
+padding: 3px 20px;
+border-radius: 2px;
+color: black;
+}
+
+label{
+color: green;
+text-shadow: 0 1px 0 #fff;
+font-size: 30px;
+font-weight: bold;
+}
+
+
+
+button{
+	font-size: 30px;
+	margin-left:250px;
+	margin-top:40px;
+background-color: lightgreen;
+border: 1px solid #e5a900;
+color: red;
+font-weight: italic;
+cursor: pointer;
+width: 20%;
+text-align:center;
+border-radius: 5px;
+padding: 10px 10px;
+outline:none;
+}
+button:hover{
+background: yellow;
+}
+
+
+
+input[type=button]:hover{
+	width=100%;
+background: yellow;
+}
